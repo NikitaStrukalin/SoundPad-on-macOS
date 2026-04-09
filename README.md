@@ -1,4 +1,4 @@
-![macOS](https://shields.io)
+![Static Badge](https://img.shields.io/badge/%EF%A3%BFmacOS_Sonoma%2B)
 
 # SoundPad-on-macOS
 Представляю Вам минималистичный soundpad для macOS!
