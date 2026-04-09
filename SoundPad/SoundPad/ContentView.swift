@@ -66,7 +66,7 @@ struct ContentView: View {
             
             GeometryReader { geometry in
                 VStack(alignment: .leading, spacing: 0) {
-                    // ХЕДЕР В ТВОЕМ СТИЛЕ
+    
                     HStack {
                         Text("Soundpad")
                             .font(.system(size: geometry.size.width * 0.05, weight: .black, design: .rounded))
