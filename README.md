@@ -1,13 +1,13 @@
 macOS Sonoma+
 
 # SoundPad-on-macOS
-Представляю Вам минималистичный soundpad для macOS!
+Introducing a minimalist soundpad for macOS!
 
-# Используйте бесплатно!
-Не требуется плата за использование
+# Use for free!
+No fee required for use
 
-# Ничего лишнего!
-Только всё самое полезное
+# Nothing extra!
+Only the most useful things
 
-# Совершенствуйте проект на своё усмотрение
-Проект распостраняеся под MIT лицензией
+# Improve the project at your own discretion
+The project is distributed under the MIT license.
