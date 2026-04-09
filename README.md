@@ -11,3 +11,5 @@ Only the most useful things
 
 # Improve the project at your own discretion
 The project is distributed under the MIT license.
+
+Legal Disclaimer: MacSoundPad is an independent open-source project. It is not affiliated with, authorized, or endorsed by Leppsoft or the official Soundpad application.
