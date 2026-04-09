@@ -83,21 +83,18 @@ struct KeybindingView: View {
     }
 }
 
-// РАБОЧИЙ захват клавиш для macOS
 private struct KeyCaptureView: NSViewRepresentable {
     @Binding var keyString: String
 
     func makeNSView(context: Context) -> NSView {
         let view = NSView()
-        // Важно: используем localMonitor, чтобы перехватывать нажатия в активном окне
         NSEvent.addLocalMonitorForEvents(matching: .keyDown) { event in
             let mappedKey = KeyCaptureView.format(event: event)
             
-            // Обновляем UI в главном потоке
             DispatchQueue.main.async {
                 self.keyString = mappedKey
             }
-            return nil // nil поглощает нажатие, чтобы система не "пищала"
+            return nil
         }
         return view
     }
