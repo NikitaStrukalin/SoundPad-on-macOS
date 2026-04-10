@@ -1,23 +1,32 @@
-macOS Sonoma+
+# 🔊 SoundPad for macOS
 
-# SoundPad-on-macOS
-Introducing a minimalist soundpad for macOS!
+[![Swift](https://shields.io)](https://swift.org)
+[![Platform](https://shields.io)](https://apple.com)
+[![SwiftData](https://shields.io)]()
 
-# Use for free!
-No fee required for use
+Простое и мощное приложение для macOS, которое позволяет назначать звуковые эффекты на горячие клавиши.
 
-# Nothing extra!
-Only the most useful things
+## ✨ Особенности
 
-# Improve the project at your own discretion
-The project is distributed under the MIT license.
+- **Глобальные горячие клавиши:** Назначайте любые комбинации клавиш для мгновенного воспроизведения звуков.
+- **Интуитивный интерфейс:** Чистый дизайн на SwiftUI.
+- **SwiftData:** Надежное хранение ваших звуков и настроек.
+- **Поддержка локализации:** Интерфейс доступен на русском и английском языках.
+- **Захват клавиш:** Удобный и наглядный выбор клавиш для биндов.
 
-Legal Disclaimer: MacSoundPad is an independent open-source project. It is not affiliated with, authorized, or endorsed by Leppsoft or the official Soundpad application.
+## 📸 Скриншоты
+<img width="949" height="605" alt="Снимок экрана 2026-04-09 в 19 37 47" src="https://github.com/user-attachments/assets/dd075444-c841-4be0-b2ce-15a646068b8d" />
+<img width="1023" height="547" alt="Screenshot 2026-04-10 at 11 12 45" src="https://github.com/user-attachments/assets/5aa87a0a-0078-43f7-8215-227fb9dca50c" />
 
-# How to Install
 
-1. Download the MacSoundPad.app.zip file.
-2. Unzip the archive.
-3. Right-click (or Ctrl+click) the MacSoundPad app and select Open.
-4. Click Open in the dialog window to allow the app to run.
-5. For v1.1+ open System settings->Privacy and Security->Universal Access and enable it for the MacSoundpad appю
+## 🚀 Требования
+
+*   macOS 14.0 and newer
+*   Xcode 15.0+
+*   Swift 5.9+
+
+## 🛠 Установка
+
+1. Склонируйте репозиторий:
+   ```bash
+   git clone https://github.com/NikitaStrukalin/SoundPad-on-macOS
