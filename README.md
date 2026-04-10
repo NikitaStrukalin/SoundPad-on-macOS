@@ -10,7 +10,6 @@ A simple and powerful macOS app that lets you assign sound effects to hotkeys.
 - **Global Hotkeys:** Assign any key combination to instantly play sounds.
 - **Intuitive Interface:** Clean SwiftUI design.
 - **SwiftData:** Secure storage of your sounds and settings.
-- **Localization Support:** The interface is available in Russian and English.
 - **Key Binding:** Convenient and intuitive key binding selection.
 
 ## 📸 Screenshots
