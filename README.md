@@ -1,7 +1,7 @@
 # 🔊 SoundPad for macOS
-[![Swift](https://shields.io)](https://swift.org)
-[![Platform](https://shields.io)](https://apple.com)
-[![SwiftData](https://shields.io)]()
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-F05138?logo=swift&logoColor=white)
 
 A simple and powerful macOS app that lets you assign sound effects to hotkeys.
 
